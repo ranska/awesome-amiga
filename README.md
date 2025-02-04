@@ -45,3 +45,12 @@
 
 [falken42](https://github.com/falken42/aobench-amiga) aobench-amiga
 
+# Compiler and dev env
+
+[Bartman vs extension](https://github.com/BartmanAbyss/vscode-amiga-debug) amiga-debug Visual Studio Code Extension
+
+[Deadline Demoparty 2021 - Seminar ](https://www.youtube.com/watch?v=gQ4tKisnr7Y)  The Latest and Greatest in Amiga 500 Demo Development
+
+
+[vbcc latest](http://www.compilers.de/vbcc.html) The source code of most recent vbcc version
+[vbcc kusma repo ](https://github.com/kusma/vbcc) in 2025-02 vbcc version g
