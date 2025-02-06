@@ -47,6 +47,8 @@
 
 # Compiler and dev env
 
+[french-dev](https://french-dev.org/amiga/c/vbcc/compiler/cross-compiling/2025/02/05/compile-vbcc-for-amiga-c-retrocoding-en) How to install vbcc from 2025 lastest code source (tested on mac m2)
+
 [Bartman vs extension](https://github.com/BartmanAbyss/vscode-amiga-debug) amiga-debug Visual Studio Code Extension
 
 [Deadline Demoparty 2021 - Seminar ](https://www.youtube.com/watch?v=gQ4tKisnr7Y)  The Latest and Greatest in Amiga 500 Demo Development
