@@ -36,7 +36,7 @@
 
 # Pdf
 
-[official vbcc pdf doc](https://github.com/asig/vbcc/blob/master/docs/vbcc.pdf]
+[official vbcc pdf doc](https://github.com/asig/vbcc/blob/master/docs/vbcc.pdf)
 
 [complete-amiga-c-1994-ramshaw](https://gitlab.com/amigasourcecodepreservation/complete-amiga-c/-/blob/master/pdf/complete-amiga-c-1994-ramshaw.pdf?ref_type=heads) a gitlab with lot of book
 
