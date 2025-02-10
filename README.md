@@ -36,6 +36,8 @@
 
 # Pdf
 
+[official vbcc pdf doc](https://github.com/asig/vbcc/blob/master/docs/vbcc.pdf]
+
 [complete-amiga-c-1994-ramshaw](https://gitlab.com/amigasourcecodepreservation/complete-amiga-c/-/blob/master/pdf/complete-amiga-c-1994-ramshaw.pdf?ref_type=heads) a gitlab with lot of book
 
 [3d graphic](https://archive.org/details/Amiga3dGraphicProgrammingInBasic/page/n363/mode/2up)
